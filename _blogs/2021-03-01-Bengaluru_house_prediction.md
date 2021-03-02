@@ -1,6 +1,6 @@
 ---
 title: "Bengaluru House Price Prediction"
-perlink: "/bhpp"
+permalink: "/bhpp/"
 ---
 
 Hey coming soon !!
